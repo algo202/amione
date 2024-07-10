@@ -1,18 +1,19 @@
 
 <html>
   <body>
-    <header>
-     <title>le titre de la page</title>
-     <img src="---- "  width="30px" height ="30px">
-      <a href="menu.html" >menu</a>
-      <a href="products.html" >menu</a>
-      <a href="table.html" >menu</a>  
+    <header style="background-color : black ">
+     <title>school website</title>
+     <img src="https://learn.alg.academy/singlepage/root/assets/logoEn-C9S4XRw1.svg"  width="30px" height ="30px">
+      <a href="lessons.html" >menu</a>
+      <a href="cours.html" >menu</a>
+      <a href="schedule.html" >menu</a>  
       <a href="description.html" >more about us </a>
     </header>
    
     <main>
-          <h1> welcome to my website</h1>
-          < img src="l'adresse   de l'image" width="150px" height ="150px" >
+          <h1>news</h1>
+          <p>compte vacances</p>
+          < img src="https://nypost.com/wp-content/uploads/sites/2/2022/06/kids-fun-08.jpg?resize=1024,682&quality=75&strip=all" width="150px" height ="150px" >
           <p>---------------------------
           -----------------------------
           -
